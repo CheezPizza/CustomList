@@ -1,25 +1,72 @@
-teams.events.data.microsoft.com
-measure.office.net
-logs.netflix.com
-ads.linkedin.com
-x.bidswitch.net
-app-analytics-services.com
-sharethrough.com
-match.sharethrough.com
-ssum-sec.casalemedia.com
-cdn.doubleverify.com
-360yield.com
-ads.yieldmo.com
-tps.doubleverify.com
-c1.adform.net
-eus.rubiconproject.com
-ad.smaato.net
-dsum-sec.casalemedia.com
-teads.tv
-bidder.criteo.com
-s.ad.smaato.net
-sitescout.com
-rtb-csync.smartadserver.com
-dt.adsafeprotected.com
-pixel-sync.sitescout.com
-ad.360yield.com
+! 2023-10-23 https://www.startpage.com
+www.startpage.com##.css-1mkwc5o
+www.startpage.com##.w-gl__label
+www.startpage.com##.css-1kpz5m3.serp-sidebar-app-promo-widget
+
+! 2023-10-30 https://ja.hinative.com
+ja.hinative.com##.mod_banner_register_float_pc
+ja.hinative.com##.l_sidebar_container > .mod_banner_container
+
+! 2023-11-14 https://www.deepl.com
+www.deepl.com##.AppPopup-module--frame--dNL4u.sm\:max-w-2xl.forced-colors-mode-border.transition-all.shadow-md.bg-white.rounded-lg.overflow-hidden.w-full.inline-block.z-10.relative
+www.deepl.com##.focus-visible-light-container.cookieBanner-module--container--m67zj
+www.deepl.com##.lg\:px-\[70px\].px-8.bg-white.w-full
+
+! 2024-01-24 https://ads-partners.coupang.com
+ads-partners.coupang.com##.container.bordered
+ads-partners.coupang.com##.container.bordered
+
+! 2024-01-24 https://www.torrentzoa.com
+||i.keezip.com/ad/nulpurn_380.gif$image
+||i.keezip.com/ad/herbnewming.gif$image
+||i.keezip.com/ad/nulpurn_380.gif$image
+||i.keezip.com/ad/nulpurn_380.gif$image
+||i.keezip.com/ad/herbnewming.gif$image
+||i.keezip.com/ad/nulpurn_380.gif$image
+||i.keezip.com/ad/nulpurn_380.gif$image
+||i.keezip.com/ad/filecast_m.gif$image
+||i.keezip.com/ad/sekder.gif$image
+||i.keezip.com/ad/ww-ot_m.jpg$image
+||i.keezip.com/ad/drugpharm_m2.gif$image
+||i.keezip.com/ad/bet1_380.jpg$image
+||i.keezip.com/ad/wn-xg_1.jpg$image
+
+! 2024-03-01 https://hinative.com
+hinative.com##.mod_banner_register_float_pc
+
+! 2024-03-02 https://myanimelist.net
+myanimelist.net##.mal-tooltip-layer
+myanimelist.net##.mt8.icon-block.js-sns-icon-container
+myanimelist.net##.pb24 > .widget-content
+
+! 2024-03-18 http://dorama.info
+dorama.info##.fbliketop.td2_g
+
+! 2024-03-27 https://www.deepl.com
+www.deepl.com##.ResearchContainer-module--researchContainer--lvw-h
+www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
+www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
+www.deepl.com##.cookieBanner-module--outer--3403a
+www.deepl.com##.shadow-lg.CareerBanner-module--container--2ac20
+
+! 2024-04-01 https://japanese.stackexchange.com
+japanese.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+! 2024-10-15 https://www.youtube.com
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com##.lln-subs-replay-btn
+www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
+www.youtube.com###voice-search-button
+
+! 2024-10-23 https://www.languagereactor.com
+www.languagereactor.com##.main-subs-controls > div:nth-of-type(2)
+www.languagereactor.com##.video-subs-wrap-fullscreen > div > span
+www.languagereactor.com##div.flex-center > div > .bottom-panel > .css-6fl1u2.sentence-row.sentence-wrap.sentence-wrap-main.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root > .in-main-subs.star-and-menu-buttons
+www.languagereactor.com##.video-subs-wrap-fullscreen > .bottom-panel > .css-6fl1u2.sentence-row.sentence-wrap.sentence-wrap-main.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root > .in-main-subs.star-and-menu-buttons
+www.languagereactor.com##div.flex-center > div > .bottom-panel > .css-6fl1u2.sentence-row.sentence-wrap.sentence-wrap-main.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root > .in-main-subs.always-visible.lr-play-btn
+www.languagereactor.com##.lri-SubsView-wrap
+www.languagereactor.com##.css-1rpsc9t.main-toolbar.MuiToolbar-dense.MuiToolbar-gutters.MuiToolbar-root > span:nth-of-type(2)
+
