@@ -1,58 +1,33 @@
-! 2023-10-23 https://www.startpage.com
+www.startpage.com###adBlock
+www.startpage.com##.w-gl__label
+www.startpage.com##.css-mtj8kd
+www.startpage.com##.css-15j85jp.feedback-button
 www.startpage.com##.css-1mkwc5o
 www.startpage.com##.w-gl__label
 www.startpage.com##.css-1kpz5m3.serp-sidebar-app-promo-widget
+www.startpage.com###block-display
+www.startpage.com##.serp-sidebar-app-promo-widget.css-18txiv3
+www.startpage.com##.serp-sidebar-app-promo-widget.css-1k8una1
+www.startpage.com##.serp-sidebar-app-promo-widget.css-1kpz5m3
+www.startpage.com##.css-xzfsr8
+www.startpage.com##.hamburger-button.css-7ok3c9
+www.startpage.com##.feedback-button.css-9g5pfm
+www.startpage.com##.w-gl-attribution.css-ddakpz
 
-! 2023-10-30 https://ja.hinative.com
-ja.hinative.com##.mod_banner_register_float_pc
-ja.hinative.com##.l_sidebar_container > .mod_banner_container
-
-! 2023-11-14 https://www.deepl.com
-www.deepl.com##.AppPopup-module--frame--dNL4u.sm\:max-w-2xl.forced-colors-mode-border.transition-all.shadow-md.bg-white.rounded-lg.overflow-hidden.w-full.inline-block.z-10.relative
-www.deepl.com##.focus-visible-light-container.cookieBanner-module--container--m67zj
-www.deepl.com##.lg\:px-\[70px\].px-8.bg-white.w-full
-
-! 2024-01-24 https://ads-partners.coupang.com
-ads-partners.coupang.com##.container.bordered
-ads-partners.coupang.com##.container.bordered
-
-! 2024-01-24 https://www.torrentzoa.com
-||i.keezip.com/ad/nulpurn_380.gif$image
-||i.keezip.com/ad/herbnewming.gif$image
-||i.keezip.com/ad/nulpurn_380.gif$image
-||i.keezip.com/ad/nulpurn_380.gif$image
-||i.keezip.com/ad/herbnewming.gif$image
-||i.keezip.com/ad/nulpurn_380.gif$image
-||i.keezip.com/ad/nulpurn_380.gif$image
-||i.keezip.com/ad/filecast_m.gif$image
-||i.keezip.com/ad/sekder.gif$image
-||i.keezip.com/ad/ww-ot_m.jpg$image
-||i.keezip.com/ad/drugpharm_m2.gif$image
-||i.keezip.com/ad/bet1_380.jpg$image
-||i.keezip.com/ad/wn-xg_1.jpg$image
-
-! 2024-03-01 https://hinative.com
-hinative.com##.mod_banner_register_float_pc
-
-! 2024-03-02 https://myanimelist.net
-myanimelist.net##.mal-tooltip-layer
-myanimelist.net##.mt8.icon-block.js-sns-icon-container
-myanimelist.net##.pb24 > .widget-content
-
-! 2024-03-18 http://dorama.info
-dorama.info##.fbliketop.td2_g
-
-! 2024-03-27 https://www.deepl.com
-www.deepl.com##.ResearchContainer-module--researchContainer--lvw-h
-www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
-www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
-www.deepl.com##.cookieBanner-module--outer--3403a
-www.deepl.com##.shadow-lg.CareerBanner-module--container--2ac20
-
-! 2024-04-01 https://japanese.stackexchange.com
-japanese.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
-
-! 2024-10-15 https://www.youtube.com
+youtube.com##cinematics.ytd-watch-flexy{display:none}
+www.youtube.com##.ytd-popup-container.style-scope > .yt-mealbar-promo-renderer.style-scope
+www.youtube.com###content-wrapper
+www.youtube.com##tp-yt-paper-dialog.style-scope.ytd-popup-container
+www.youtube.com###foreground-content
+www.youtube.com##.yt-spec-button-shape-next.yt-spec-button-shape-next--outline.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.style-scope.ytd-menu-renderer > .yt-spec-button-view-model
+www.youtube.com###flexible-item-buttons > yt-button-view-model.style-scope.ytd-menu-renderer > .yt-spec-button-view-model
+www.youtube.com###subscribe-button-shape
+www.youtube.com###button-shape
+www.youtube.com###voice-search-button > .style-scope.ytd-masthead > yt-button-shape
+www.youtube.com###sponsor-button > .style-scope.ytd-video-owner-renderer > yt-button-shape
+www.youtube.com###banner
+www.youtube.com##ytd-merch-shelf-renderer.style-scope.ytd-watch-flexy
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
@@ -60,8 +35,37 @@ www.youtube.com###button-shape > .yt-spec-button-shape-next--enable-backdrop-fil
 www.youtube.com##.lln-subs-replay-btn
 www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 www.youtube.com###voice-search-button
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer > .yt-spec-button-view-model
+www.youtube.com###guide-inner-content
+www.youtube.com##ytd-mini-guide-renderer
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(5)
+www.youtube.com##ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com##.iv-branding.annotation-type-custom.annotation
+www.youtube.com##.ytp-paid-content-overlay
+www.youtube.com###button > .style-scope.ytd-menu-renderer > .yt-icon-shape.style-scope.yt-icon.yt-spec-icon-shape > div
+www.youtube.com###page-header
+www.youtube.com###page-header-banner
 
-! 2024-10-23 https://www.languagereactor.com
+www.deepl.com##div.p-8.lg\:px-\[70px\]
+www.deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
+www.deepl.com##.ResearchDesktop-module--researchPopUp--GYJxN
+www.deepl.com##.absolute.right-0.top-2.z-20.min-h-0.min-w-0.empty\:hidden
+www.deepl.com##.ResearchDesktop-module--researchPopUp--6dac7
+www.deepl.com##.AppPopup-module--frame--dNL4u.sm\:max-w-2xl.forced-colors-mode-border.transition-all.shadow-md.bg-white.rounded-lg.overflow-hidden.w-full.inline-block.z-10.relative
+www.deepl.com##.focus-visible-light-container.cookieBanner-module--container--m67zj
+www.deepl.com##.lg\:px-\[70px\].px-8.bg-white.w-full
+www.deepl.com##.ResearchContainer-module--researchContainer--lvw-h
+www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
+www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
+www.deepl.com##.cookieBanner-module--outer--3403a
+www.deepl.com##.shadow-lg.CareerBanner-module--container--2ac20
+
 www.languagereactor.com##.main-subs-controls > div:nth-of-type(2)
 www.languagereactor.com##.video-subs-wrap-fullscreen > div > span
 www.languagereactor.com##div.flex-center > div > .bottom-panel > .css-6fl1u2.sentence-row.sentence-wrap.sentence-wrap-main.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root > .in-main-subs.star-and-menu-buttons
@@ -70,3 +74,101 @@ www.languagereactor.com##div.flex-center > div > .bottom-panel > .css-6fl1u2.sen
 www.languagereactor.com##.lri-SubsView-wrap
 www.languagereactor.com##.css-1rpsc9t.main-toolbar.MuiToolbar-dense.MuiToolbar-gutters.MuiToolbar-root > span:nth-of-type(2)
 
+||ad.doubanio.com/$subdocument
+movie.douban.com###dale_movie_subject_inner_middle
+movie.douban.com##.gray_ad
+movie.douban.com###dale_movie_subject_middle_right
+www.douban.com###dale_each_group_home_middle_right
+www.douban.com###dale_each_group_home_bottom_right
+movie.douban.com##.aside > .pl
+movie.douban.com###subject-others-interests
+movie.douban.com###recommend-groups
+movie.douban.com##.rec-sec
+movie.douban.com##.gtleft
+movie.douban.com###interest_sect_level
+movie.douban.com##.episode_list
+movie.douban.com##.article > h2
+movie.douban.com###dale_movie_subject_top_right_frame
+movie.douban.com###dale_movie_subject_inner_middle_frame
+movie.douban.com###dale_movie_subject_inner_middle > div
+
+||eagle.vin/content.html$subdocument
+eagle.vin###dale_movie_subject_top_right_frame
+eagle.vin###dale_movie_subject_inner_middle_frame
+eagle.vin###dale_movie_subject_inner_middle > div
+
+www.bilibili.com##.unlogin-popover-avatar.unlogin-popover
+www.bilibili.com##.login-tip
+www.bilibili.com##.bpx-player-toast-item
+
+www.msn.com##.customizeModal-DS-EntryPoint1-1
+www.msn.com###eplantEntranceBubble
+www.msn.com##.oneFooter-DS-EntryPoint1-1
+www.msn.com##.button-DS-EntryPoint1-1.feedback_link_default-DS-EntryPoint1-1
+www.msn.com##.newsContent-DS-EntryPoint1-1
+www.msn.com##weather-today-history
+
+m.kinolights.com##.img-wrap
+m.kinolights.com##.banner-wrap.banner
+m.kinolights.com##.filter-channel-wrapper
+m.kinolights.com##.mx-16.mb-32
+m.kinolights.com##.my-rating-area
+
+www.imdb.com##.ipc-list-card.ipc-coachmark.sc-ArjuK.cHimVI.ipc-list-card--base
+www.imdb.com##.ipc-list-card.ipc-coachmark.sc-laZMRZ.biLDlp.ipc-list-card--base
+www.imdb.com##.ipc-list-card.ipc-coachmark.sc-lbVuwP.gtlWgR.ipc-list-card--base
+www.imdb.com###inline60_responsive_wrapper
+www.imdb.com##.ipc-list-card.ipc-coachmark.sc-gGLyrU.cGNRwZ.ipc-list-card--base
+
+flixpatrol.com###netflix-1
+flixpatrol.com##.card-body.py-3.bg-gray-900.flex.items-center.gap-4.border-l-4.border-current
+
+filmarks.com##div.c-search-panel:nth-of-type(3) > .c-search-panel__body > .c-search-panel__main
+filmarks.com##div.c-search-panel:nth-of-type(3) > .c1-heading-secondary-m
+filmarks.com##.p-top-hero.p-top-hero--drama
+filmarks.com##.p-search-cards-list__item.p-search-cards-list__item--2col
+filmarks.com##div.p-top-content:nth-of-type(3)
+filmarks.com##div.p-top-content:nth-of-type(6)
+filmarks.com##.p-top-filmaga
+filmarks.com##div.p-top-content:nth-of-type(4)
+filmarks.com##.c-search-card__body
+filmarks.com##.p-search-cards-list > div.c-search-card > .c1-heading-secondary-m
+filmarks.com##.p-top-filmarks
+filmarks.com##.p-top-hero.p-top-hero--movie
+filmarks.com##.p-top-hero.p-top-hero--anime
+
+www.filmaffinity.com##.platforms-wrapper
+www.filmaffinity.com##.fas.fa-share-alt
+www.filmaffinity.com##.cc1.mult-link
+www.filmaffinity.com###stream-wrapper
+www.filmaffinity.com##.version-reminder
+www.filmaffinity.com##.full-row
+
+myanimelist.net##.mal-tooltip-layer
+myanimelist.net##.mt8.icon-block.js-sns-icon-container
+myanimelist.net##.pb24 > .widget-content
+myanimelist.net##.user-status-block.js-user-status-block.fn-grey6.clearfix.al.mt8.po-r
+
+letterboxd.com##.inner
+
+www.allocine.fr##.main-banner
+geo.dailymotion.com##.main-banner
+www.allocine.fr##.main-banner
+www.allocine.fr##.rc-visuel-whatsapp.b-loaded
+
+dict.naver.com###f240240-dichome
+dict.naver.com##.Ngnb
+
+www.cine21.com##.banner01
+
+en.wikipedia.org##.vector-sitenotice-container
+en.wikipedia.org##.cbnnr-main
+
+ja.hinative.com##.l_sidebar_container > .mod_banner_container
+hinative.com##.mod_banner_register_float_pc
+
+dorama.info##.fbliketop.td2_g
+
+japanese.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+www.w3schools.com##.m12.l2.w3-col
