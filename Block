@@ -147,8 +147,8 @@ dict.naver.com##.Ngnb
 
 www.cine21.com##.banner01
 
-en.wikipedia.org##.vector-sitenotice-container
-en.wikipedia.org##.cbnnr-main
+*.wikipedia.org##.vector-sitenotice-container
+*.wikipedia.org##.cbnnr-main
 
 ja.hinative.com##.l_sidebar_container > .mod_banner_container
 hinative.com##.mod_banner_register_float_pc
