@@ -44,6 +44,7 @@ www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com###button > .style-scope.ytd-menu-renderer > .yt-icon-shape.style-scope.yt-icon.yt-spec-icon-shape > div
 www.youtube.com###page-header
 www.youtube.com###page-header-banner
+www.youtube.com##ytd-movie-renderer
 
 www.deepl.com##div.p-8.lg\:px-\[70px\]
 www.deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
@@ -58,6 +59,10 @@ www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
 www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
 www.deepl.com##.cookieBanner-module--outer--3403a
 www.deepl.com##.shadow-lg.CareerBanner-module--container--2ac20
+www.deepl.com##footer
+www.deepl.com##.empty\:size-10.mobile\:empty\:hidden
+www.deepl.com##.sticky.top-0.z-\[999\].grid.min-h-\[61px\].grid-cols-\[auto_1fr_auto\].justify-between.bg-white.px-5.md\:px-10
+www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has\(\.keep-toolbar\)\]\:flex.\[\&\:has\(button\)\]\:flex.bg-white.bottom-0.sticky.md\:ps-7.py-2.px-4.rounded-ee-lg.gap-2.h-14.hidden
 
 ||ad.doubanio.com/$subdocument
 movie.douban.com###dale_movie_subject_inner_middle
@@ -105,6 +110,7 @@ www.imdb.com##.ipc-list-card.ipc-coachmark.sc-lbVuwP.gtlWgR.ipc-list-card--base
 www.imdb.com###inline60_responsive_wrapper
 www.imdb.com##.ipc-list-card.ipc-coachmark.sc-gGLyrU.cGNRwZ.ipc-list-card--base
 www.imdb.com##.ipc-list-card--base.ipc-list-card.ipc-coachmark.sc-ckTThN.fdfMQF
+www.imdb.com##.ipc-list-card--base.ipc-list-card.ipc-coachmark.sc-amhWr.fWxRbe
 
 flixpatrol.com###netflix-1
 flixpatrol.com##.card-body.py-3.bg-gray-900.flex.items-center.gap-4.border-l-4.border-current
@@ -156,5 +162,7 @@ www.cine21.com##.banner01
 dorama.info##.fbliketop.td2_g
 
 japanese.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+
+github.com##.flash.flash-warn.mt-3
 
 www.w3schools.com##.m12.l2.w3-col
