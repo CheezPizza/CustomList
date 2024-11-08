@@ -150,6 +150,13 @@ www.allocine.fr##.rc-visuel-whatsapp.b-loaded
 
 dict.naver.com###f240240-dichome
 dict.naver.com##.Ngnb
+dict.naver.com##.listen_global_area
+zh.dict.naver.com##._ad_area.section
+dict.naver.com##.component_searching_words
+dict.naver.com###aside > div.section > .section_title
+ko.dict.naver.com###footer
+ko.dict.naver.com##.section_etc.section
+dict.naver.com###footer
 
 www.cine21.com##.banner01
 
