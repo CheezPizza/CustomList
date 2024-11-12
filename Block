@@ -63,6 +63,8 @@ www.deepl.com##footer
 www.deepl.com##.empty\:size-10.mobile\:empty\:hidden
 www.deepl.com##.sticky.top-0.z-\[999\].grid.min-h-\[61px\].grid-cols-\[auto_1fr_auto\].justify-between.bg-white.px-5.md\:px-10
 www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has\(\.keep-toolbar\)\]\:flex.\[\&\:has\(button\)\]\:flex.bg-white.bottom-0.sticky.md\:ps-7.py-2.px-4.rounded-ee-lg.gap-2.h-14.hidden
+www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has\(\.keep-toolbar\)\]\:flex.\[\&\:has\(button\)\]\:flex.bg-white.bottom-0.sticky.md\:ps-7.items-center.px-4.rounded-ee-lg.gap-2.h-14.hidden
+www.deepl.com##.mobile\:bg-neutral-next-50.max-md\:px-5.px-10.border-neutral-next-100.border-b-1.BasePageHeader-module--container--d81cb.min-h-\[61px\].h-fit.z-\[999\]
 
 ||ad.doubanio.com/$subdocument
 movie.douban.com###dale_movie_subject_inner_middle
