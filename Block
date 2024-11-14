@@ -66,6 +66,7 @@ www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has
 www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has\(\.keep-toolbar\)\]\:flex.\[\&\:has\(button\)\]\:flex.bg-white.bottom-0.sticky.md\:ps-7.items-center.px-4.rounded-ee-lg.gap-2.h-14.hidden
 www.deepl.com##.mobile\:bg-neutral-next-50.max-md\:px-5.px-10.border-neutral-next-100.border-b-1.BasePageHeader-module--container--d81cb.min-h-\[61px\].h-fit.z-\[999\]
 
+letterboxd.com##.inner
 letterboxd.com##.js-watch-panel.watch-panel
 letterboxd.com##header > ul > li:nth-of-type(5)
 letterboxd.com##.js-actions-panel-sharing.sharing-toggle.panel-sharing
@@ -154,8 +155,13 @@ myanimelist.net##.mal-tooltip-layer
 myanimelist.net##.mt8.icon-block.js-sns-icon-container
 myanimelist.net##.pb24 > .widget-content
 myanimelist.net##.user-status-block.js-user-status-block.fn-grey6.clearfix.al.mt8.po-r
-
-letterboxd.com##.inner
+myanimelist.net##li:nth-of-type(3) > .non-link
+myanimelist.net##.small2 > .non-link
+myanimelist.net##li.small:nth-of-type(5) > .non-link
+myanimelist.net##li.smaller > .non-link
+myanimelist.net##.header-mini-banner.banner-header-anime-straming
+myanimelist.net##.header-menu-login
+myanimelist.net##footer
 
 www.allocine.fr##.main-banner
 geo.dailymotion.com##.main-banner
