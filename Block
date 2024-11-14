@@ -66,6 +66,15 @@ www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has
 www.deepl.com##.mobile\:gap-1.mobile\:h-auto.mobile\:px-3.mobile\:py-1.\[\&\:has\(\.keep-toolbar\)\]\:flex.\[\&\:has\(button\)\]\:flex.bg-white.bottom-0.sticky.md\:ps-7.items-center.px-4.rounded-ee-lg.gap-2.h-14.hidden
 www.deepl.com##.mobile\:bg-neutral-next-50.max-md\:px-5.px-10.border-neutral-next-100.border-b-1.BasePageHeader-module--container--d81cb.min-h-\[61px\].h-fit.z-\[999\]
 
+letterboxd.com##.js-watch-panel.watch-panel
+letterboxd.com##header > ul > li:nth-of-type(5)
+letterboxd.com##.js-actions-panel-sharing.sharing-toggle.panel-sharing
+letterboxd.com##.js-actions-panel
+letterboxd.com###recent-reviews
+letterboxd.com###film-hq-mentions
+letterboxd.com##.-is-not-stacked.nanocrowd-attribution
+letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
+
 ||ad.doubanio.com/$subdocument
 movie.douban.com###dale_movie_subject_inner_middle
 movie.douban.com##.gray_ad
