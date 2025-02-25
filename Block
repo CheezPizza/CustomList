@@ -181,6 +181,39 @@ myanimelist.net##.header-mini-banner.banner-header-anime-straming
 myanimelist.net##.header-menu-login
 myanimelist.net##footer
 
+anilist.co##.links > a.link:nth-of-type(1)
+anilist.co##.links > a.link:nth-of-type(2)
+anilist.co##.links > a.link:nth-of-type(4)
+anilist.co##.links > a.link:nth-of-type(5)
+anilist.co##.banner
+anilist.co##.wrap > .footer
+anilist.co##.external-links
+anilist.co##a.button.review
+anilist.co##.episodes
+
+eiga.com##.content-aside
+eiga.com##.site-footer
+eiga.com##.open.sub-toolbar
+eiga.com##.review-score.review-tool-inner
+eiga.com##.revue.xlarge.icon
+eiga.com##.open-switch-box
+eiga.com##.my-menu
+eiga.com##.my-header
+eiga.com##.breadcrumb
+eiga.com##.header-banner
+eiga.com##.log-in-notification.head-account
+eiga.com##.link-btn
+
+filmarks.com##li.l-header__nav-item > [href="https://filmaga.filmarks.com"]
+filmarks.com##li.l-header__nav-item > [href="/search/users/popular"]
+filmarks.com##.l-header-authenticated__activity
+filmarks.com##.l-header-group
+filmarks.com##footer
+filmarks.com###js-content-detail-related-info
+filmarks.com##.p-content-detail__copyright
+filmarks.com##.p-profile
+filmarks.com##.p-users-navi
+
 www.allocine.fr##.main-banner
 geo.dailymotion.com##.main-banner
 www.allocine.fr##.main-banner
@@ -195,6 +228,8 @@ dict.naver.com###aside > div.section > .section_title
 ko.dict.naver.com###footer
 ko.dict.naver.com##.section_etc.section
 dict.naver.com###footer
+
+kitsunekko.net###signin
 
 www.cine21.com##.banner01
 
