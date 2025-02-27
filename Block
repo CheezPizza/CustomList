@@ -79,7 +79,6 @@ letterboxd.com##.-is-not-stacked.nanocrowd-attribution
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 letterboxd.com##.button-add.button-action.-action.button
 letterboxd.com##.button-add-menu.button-action.-action.button
-movie.douban.com###db-global-nav
 
 ||ad.doubanio.com/$subdocument
 movie.douban.com###dale_movie_subject_inner_middle
@@ -99,6 +98,7 @@ movie.douban.com###dale_movie_subject_top_right_frame
 movie.douban.com###dale_movie_subject_inner_middle_frame
 movie.douban.com###dale_movie_subject_inner_middle > div
 movie.douban.com##.aside
+movie.douban.com###db-global-nav
 
 mydramalist.com##.box.title-contributors
 mydramalist.com##div.m-b-sm
