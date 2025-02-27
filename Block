@@ -95,6 +95,7 @@ movie.douban.com##.article > h2
 movie.douban.com###dale_movie_subject_top_right_frame
 movie.douban.com###dale_movie_subject_inner_middle_frame
 movie.douban.com###dale_movie_subject_inner_middle > div
+movie.douban.com##.aside
 
 mydramalist.com##.box.title-contributors
 mydramalist.com##div.m-b-sm
