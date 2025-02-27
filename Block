@@ -236,6 +236,7 @@ wikipedia.org###siteNotice
 wikipedia.org##.mw-footer-container
 wikipedia.org##.vector-column-end
 wikipedia.org##.vector-user-links
+wikipedia.org##.va-variant-prompt
 
 ||hinative.com##.l_sidebar_container > .mod_banner_container
 ||hinative.com##.mod_banner_register_float_pc
