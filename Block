@@ -231,14 +231,9 @@ dict.naver.com###footer
 
 kitsunekko.net###signin
 
-||wikipedia.org##.vector-sitenotice-container
-||wikipedia.org##.cbnnr-main
-en.wikipedia.org##.vector-column-end > .vector-sticky-pinned-container
-en.wikipedia.org##.vector-user-links-wide.vector-user-links
-en.wikipedia.org###cnotice-main
-en.wikipedia.org##.box-More_citations_needed
-en.wikipedia.org###siteNotice
-en.wikipedia.org##.mw-footer-container
+wikipedia.org##.box-More_citations_needed
+wikipedia.org###siteNotice
+wikipedia.org##.mw-footer-container
 
 ||hinative.com##.l_sidebar_container > .mod_banner_container
 ||hinative.com##.mod_banner_register_float_pc
