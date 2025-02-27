@@ -80,12 +80,14 @@ letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 letterboxd.com##.button-add.button-action.-action.button
 letterboxd.com##.button-add-menu.button-action.-action.button
 
-||ad.doubanio.com/$subdocument
-movie.douban.com###dale_movie_subject_inner_middle
 movie.douban.com##.gray_ad
+movie.douban.com###dale_each_group_home_middle_right
+movie.douban.com###dale_each_group_home_bottom_right
 movie.douban.com###dale_movie_subject_middle_right
-www.douban.com###dale_each_group_home_middle_right
-www.douban.com###dale_each_group_home_bottom_right
+movie.douban.com###dale_movie_subject_top_right_frame
+movie.douban.com###dale_movie_subject_inner_middle
+movie.douban.com###dale_movie_subject_inner_middle_frame
+movie.douban.com###dale_movie_subject_inner_middle > div
 movie.douban.com##.aside > .pl
 movie.douban.com###subject-others-interests
 movie.douban.com###recommend-groups
@@ -94,11 +96,8 @@ movie.douban.com##.gtleft
 movie.douban.com###interest_sect_level
 movie.douban.com##.episode_list
 movie.douban.com##.article > h2
-movie.douban.com###dale_movie_subject_top_right_frame
-movie.douban.com###dale_movie_subject_inner_middle_frame
-movie.douban.com###dale_movie_subject_inner_middle > div
 movie.douban.com##.aside
-douban.com###db-global-nav
+movie.douban.com###db-global-nav
 
 mydramalist.com##.box.title-contributors
 mydramalist.com##div.m-b-sm
@@ -108,11 +107,6 @@ mydramalist.com###footer
 mydramalist.com##.txt
 mydramalist.com##.col-rightx.col-md-8.col-lg-8 > div.box:nth-of-type(3)
 mydramalist.com##.cookie__floating--bottom.cookie__floating.cookie
-
-||eagle.vin/content.html$subdocument
-eagle.vin###dale_movie_subject_top_right_frame
-eagle.vin###dale_movie_subject_inner_middle_frame
-eagle.vin###dale_movie_subject_inner_middle > div
 
 www.bilibili.com##.unlogin-popover-avatar.unlogin-popover
 www.bilibili.com##.login-tip
@@ -149,29 +143,35 @@ www.imdb.com##.imdb-footer
 www.imdb.com##.right-rail-more-to-explore
 www.imdb.com##.navbar__imdb-pro--toggle
 
-flixpatrol.com###netflix-1
-flixpatrol.com##.card-body.py-3.bg-gray-900.flex.items-center.gap-4.border-l-4.border-current
-
-filmarks.com##div.c-search-panel:nth-of-type(3) > .c-search-panel__body > .c-search-panel__main
-filmarks.com##div.c-search-panel:nth-of-type(3) > .c1-heading-secondary-m
-filmarks.com##.p-top-hero.p-top-hero--drama
-filmarks.com##.p-search-cards-list__item.p-search-cards-list__item--2col
-filmarks.com##div.p-top-content:nth-of-type(3)
-filmarks.com##div.p-top-content:nth-of-type(6)
-filmarks.com##.p-top-filmaga
-filmarks.com##div.p-top-content:nth-of-type(4)
-filmarks.com##.c-search-card__body
-filmarks.com##.p-search-cards-list > div.c-search-card > .c1-heading-secondary-m
-filmarks.com##.p-top-filmarks
-filmarks.com##.p-top-hero.p-top-hero--movie
-filmarks.com##.p-top-hero.p-top-hero--anime
-
 www.filmaffinity.com##.platforms-wrapper
 www.filmaffinity.com##.fas.fa-share-alt
 www.filmaffinity.com##.cc1.mult-link
 www.filmaffinity.com###stream-wrapper
 www.filmaffinity.com##.version-reminder
 www.filmaffinity.com##.full-row
+
+filmarks.com##div.c-search-panel:nth-of-type(3) > .c-search-panel__body > .c-search-panel__main
+filmarks.com##div.c-search-panel:nth-of-type(3) > .c1-heading-secondary-m
+filmarks.com##.p-top-hero.p-top-hero--movie
+filmarks.com##.p-top-hero.p-top-hero--anime
+filmarks.com##.p-top-hero.p-top-hero--drama
+filmarks.com##div.p-top-content:nth-of-type(3)
+filmarks.com##div.p-top-content:nth-of-type(6)
+filmarks.com##div.p-top-content:nth-of-type(4)
+filmarks.com##.p-top-filmaga
+filmarks.com##.c-search-card__body
+filmarks.com##.p-search-cards-list__item.p-search-cards-list__item--2col
+filmarks.com##.p-search-cards-list > div.c-search-card > .c1-heading-secondary-m
+filmarks.com##.p-top-filmarks
+filmarks.com##li.l-header__nav-item > [href="https://filmaga.filmarks.com"]
+filmarks.com##li.l-header__nav-item > [href="/search/users/popular"]
+filmarks.com##.l-header-authenticated__activity
+filmarks.com##.l-header-group
+filmarks.com##footer
+filmarks.com###js-content-detail-related-info
+filmarks.com##.p-content-detail__copyright
+filmarks.com##.p-profile
+filmarks.com##.p-users-navi
 
 myanimelist.net##.mal-tooltip-layer
 myanimelist.net##.mt8.icon-block.js-sns-icon-container
@@ -208,32 +208,18 @@ eiga.com##.header-banner
 eiga.com##.log-in-notification.head-account
 eiga.com##.link-btn
 
-filmarks.com##li.l-header__nav-item > [href="https://filmaga.filmarks.com"]
-filmarks.com##li.l-header__nav-item > [href="/search/users/popular"]
-filmarks.com##.l-header-authenticated__activity
-filmarks.com##.l-header-group
-filmarks.com##footer
-filmarks.com###js-content-detail-related-info
-filmarks.com##.p-content-detail__copyright
-filmarks.com##.p-profile
-filmarks.com##.p-users-navi
-
 www.allocine.fr##.main-banner
-geo.dailymotion.com##.main-banner
 www.allocine.fr##.main-banner
 www.allocine.fr##.rc-visuel-whatsapp.b-loaded
 
 dict.naver.com###f240240-dichome
 dict.naver.com##.Ngnb
 dict.naver.com##.listen_global_area
-zh.dict.naver.com##._ad_area.section
+dict.naver.com##._ad_area.section
 dict.naver.com##.component_searching_words
 dict.naver.com###aside > div.section > .section_title
-ko.dict.naver.com###footer
-ko.dict.naver.com##.section_etc.section
 dict.naver.com###footer
-
-kitsunekko.net###signin
+dict.naver.com##.section_etc.section
 
 wikipedia.org##.box-More_citations_needed
 wikipedia.org###siteNotice
@@ -243,13 +229,13 @@ wikipedia.org##.vector-user-links
 wikipedia.org##.va-variant-prompt
 wikipedia.org##.ambox-notice
 
+flixpatrol.com###netflix-1
+flixpatrol.com##.card-body.py-3.bg-gray-900.flex.items-center.gap-4.border-l-4.border-current
+
 ||hinative.com##.l_sidebar_container > .mod_banner_container
 ||hinative.com##.mod_banner_register_float_pc
 
-dorama.info##.fbliketop.td2_g
-
-japanese.stackexchange.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
+kitsunekko.net###signin
 
 github.com##.flash.flash-warn.mt-3
 
-www.w3schools.com##.m12.l2.w3-col
