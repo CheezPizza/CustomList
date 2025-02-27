@@ -231,10 +231,18 @@ wikipedia.org##.ambox-notice
 wikipedia.org##.ambox-style
 
 flixpatrol.com###netflix-1
-flixpatrol.com##.card-body.py-3.bg-gray-900.flex.items-center.gap-4.border-l-4.border-current
 
-||hinative.com##.l_sidebar_container > .mod_banner_container
-||hinative.com##.mod_banner_register_float_pc
+ja.hinative.com##.mod_footer
+ja.hinative.com##.mod_banner_bestapp_footer
+ja.hinative.com##div.mod_share_buttons
+ja.hinative.com##.mod_toolbuttons
+ja.hinative.com##.mod_translation_trigger
+ja.hinative.com##.area_feedback_triggers.aside_item
+ja.hinative.com##.mod_banner_register_float_pc
+ja.hinative.com##.operations.header_item
+ja.hinative.com##.mod_ads_balloon
+ja.hinative.com##.chat_userstatus
+||ogp-v2.hinative.com/ogp/question$image
 
 kitsunekko.net###signin
 
