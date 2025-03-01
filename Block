@@ -83,6 +83,14 @@ letterboxd.com##.-is-not-stacked.nanocrowd-attribution
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 letterboxd.com##.button-add.button-action.-action.button
 letterboxd.com##.button-add-menu.button-action.-action.button
+letterboxd.com##.main-nav-journal.navitem
+letterboxd.com##.js-hide-in-app.banner-950.banner
+letterboxd.com##.show-on-hover.block-flag-wrapper
+letterboxd.com##.showalltrigger
+letterboxd.com##a.track-event.micro-button:nth-of-type(2)
+letterboxd.com###userpanel > ul > li:nth-of-type(2)
+letterboxd.com###film-popular-lists
+letterboxd.com##.-clear.related-lists.section
 
 movie.douban.com##.gray_ad
 movie.douban.com###dale_each_group_home_middle_right
