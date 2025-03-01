@@ -1,5 +1,9 @@
 youtube.com#$##cinematics.ytd-watch-flexy{display:none}
 www.deepl.com##html{filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(110%) grayscale(100%) !important;}
+m.kinolights.com##.main[data-v-5c6efe4b]{--top: 104px !important;}
+m.kinolights.com###contents{max-width:1050px !important;}
+m.kinolights.com##.filterArea[data-v-5c6efe4b]{max-width:1050px !important;}
+m.kinolights.com##.archive-movie-list-area .movie-list-item-wrap[data-v-5c6efe4b]{grid-template-columns:repeat(6,minmax(0,1fr)) !important;}
 www.amazon.com##.xrayQuickView
 
 www.startpage.com###adBlock
