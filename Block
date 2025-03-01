@@ -1,3 +1,6 @@
+youtube.com#$##cinematics.ytd-watch-flexy{display:none}
+www.deepl.com##html{filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(110%) grayscale(100%) !important;}
+
 www.startpage.com###adBlock
 www.startpage.com##.w-gl__label
 www.startpage.com##.css-mtj8kd
@@ -18,7 +21,6 @@ www.startpage.com##.css-1dy6jzj.anonymous-view-link
 www.startpage.com###main > div:nth-of-type(2)
 www.startpage.com##.gb-header-powered-by.css-9xcj5w
 
-youtube.com#$##cinematics.ytd-watch-flexy{display:none}
 www.youtube.com##.ytd-popup-container.style-scope > .yt-mealbar-promo-renderer.style-scope
 www.youtube.com###content-wrapper
 www.youtube.com###foreground-content
@@ -49,7 +51,6 @@ www.youtube.com###page-header
 www.youtube.com###page-header-banner
 www.youtube.com##ytd-movie-renderer
 
-www.deepl.com##html{filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(110%) grayscale(100%) !important;}
 www.deepl.com##div.p-8.lg\:px-\[70px\]
 www.deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
 www.deepl.com##.ResearchDesktop-module--researchPopUp--GYJxN
