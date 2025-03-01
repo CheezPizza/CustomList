@@ -96,24 +96,7 @@ letterboxd.com###userpanel > ul > li:nth-of-type(2)
 letterboxd.com###film-popular-lists
 letterboxd.com##.-clear.related-lists.section
 
-movie.douban.com##.gray_ad
-movie.douban.com###dale_each_group_home_middle_right
-movie.douban.com###dale_each_group_home_bottom_right
-movie.douban.com###dale_movie_subject_middle_right
-movie.douban.com###dale_movie_subject_top_right_frame
-movie.douban.com###dale_movie_subject_inner_middle
-movie.douban.com###dale_movie_subject_inner_middle_frame
-movie.douban.com###dale_movie_subject_inner_middle > div
-movie.douban.com##.aside > .pl
-movie.douban.com###subject-others-interests
-movie.douban.com###recommend-groups
-movie.douban.com##.rec-sec
-movie.douban.com##.gtleft
-movie.douban.com###interest_sect_level
-movie.douban.com##.episode_list
-movie.douban.com##.article > h2
-movie.douban.com##.aside
-movie.douban.com###db-global-nav
+
 
 mydramalist.com##.box.title-contributors
 mydramalist.com##div.m-b-sm
