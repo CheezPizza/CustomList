@@ -136,6 +136,24 @@ www.filmaffinity.com###stream-wrapper
 www.filmaffinity.com##.version-reminder
 www.filmaffinity.com##.full-row
 
+www.imdb.com###imdbscout_header
+www.imdb.com###imdbscout_button
+www.imdb.com##hr:nth-of-type(-n+2)
+www.imdb.com##.ketnsO.sc-9a2a0028-11 > div
+www.imdb.com##.kVSIEg.sc-1fdae676-1
+www.imdb.com##.imdb-footer
+www.imdb.com##.navbar__imdb-pro--toggle
+www.imdb.com##.footer
+www.imdb.com##.navbar__imdbpro
+www.imdb.com##.cLDGAT.sc-57197f8e-3
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section
+www.imdb.com##.GeQgK
+www.imdb.com##.rating-bar__base-button.iaJqqu.sc-acdbf0f3-0:nth-of-type(2)
+www.imdb.com##.leJyYV
+www.imdb.com##.right-rail-more-to-explore.kqTueb.sc-3e58c83b-2
+www.imdb.com##.ipc-icon--info
+www.imdb.com##.tabs.advanced-search-tabs
+
 filmarks.com##div.c-search-panel:nth-of-type(3) > .c-search-panel__body > .c-search-panel__main
 filmarks.com##div.c-search-panel:nth-of-type(3) > .c1-heading-secondary-m
 filmarks.com##.p-top-hero.p-top-hero--movie
