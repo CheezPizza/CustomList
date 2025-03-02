@@ -4,6 +4,10 @@ m.kinolights.com##.main[data-v-5c6efe4b]{--top: 104px !important;}
 m.kinolights.com###contents{max-width:1050px !important;}
 m.kinolights.com##.filterArea[data-v-5c6efe4b]{max-width:1050px !important;}
 m.kinolights.com##.archive-movie-list-area .movie-list-item-wrap[data-v-5c6efe4b]{grid-template-columns:repeat(6,minmax(0,1fr)) !important;}
+m.kinolights.com##.movie-info-container[data-v-dfd1d592]{max-width:1050px !important;}
+m.kinolights.com##.media-type-btn-wrap[data-v-3281aaff]{max-width:1050px !important;}
+m.kinolights.com###header.tit_page .header-inner[data-v-8e3f412c]{max-width:1050px !important;}
+m.kinolights.com##.filter-chips-wrap[data-v-4fd44096]{max-width:1050px !important;}
 www.amazon.com##.xrayQuickView
 
 www.startpage.com###adBlock
@@ -140,6 +144,7 @@ m.kinolights.com##.filter-channel-wrapper
 m.kinolights.com##.mx-16.mb-32
 m.kinolights.com##.my-rating-area
 m.kinolights.com##.attendance-tooltip
+m.kinolights.com###mainNavigation
 
 www.filmaffinity.com##.platforms-wrapper
 www.filmaffinity.com##.fas.fa-share-alt
