@@ -8,6 +8,7 @@ m.kinolights.com##.movie-info-container[data-v-dfd1d592]{max-width:1050px !impor
 m.kinolights.com##.media-type-btn-wrap[data-v-3281aaff]{max-width:1050px !important;}
 m.kinolights.com###header.tit_page .header-inner[data-v-8e3f412c]{max-width:1050px !important;}
 m.kinolights.com##.filter-chips-wrap[data-v-4fd44096]{max-width:1050px !important;}
+www.filmaffinity.com###page-header{margin-bottom:40px !important;}
 www.amazon.com##.xrayQuickView
 
 www.startpage.com###adBlock
@@ -154,6 +155,8 @@ www.filmaffinity.com##.cc1.mult-link
 www.filmaffinity.com###stream-wrapper
 www.filmaffinity.com##.version-reminder
 www.filmaffinity.com##.full-row
+www.filmaffinity.com###mt-left-cell
+www.filmaffinity.com###header-bottom
 
 www.imdb.com###imdbscout_header
 www.imdb.com###imdbscout_button
