@@ -9,6 +9,7 @@ m.kinolights.com##.media-type-btn-wrap[data-v-3281aaff]{max-width:1050px !import
 m.kinolights.com###header.tit_page .header-inner[data-v-8e3f412c]{max-width:1050px !important;}
 m.kinolights.com##.filter-chips-wrap[data-v-4fd44096]{max-width:1050px !important;}
 www.filmaffinity.com###page-header{margin-bottom:40px !important;}
+www.imdb.com##.ipc-title{margin-bottom:-1.5rem !important;}
 www.amazon.com##.xrayQuickView
 
 www.startpage.com###adBlock
@@ -157,6 +158,8 @@ www.filmaffinity.com##.version-reminder
 www.filmaffinity.com##.full-row
 www.filmaffinity.com###mt-left-cell
 www.filmaffinity.com###header-bottom
+www.filmaffinity.com##.mc-action
+www.filmaffinity.com###bpanel
 
 www.imdb.com###imdbscout_header
 www.imdb.com###imdbscout_button
@@ -198,6 +201,7 @@ filmarks.com###js-content-detail-related-info
 filmarks.com##.p-content-detail__copyright
 filmarks.com##.p-profile
 filmarks.com##.p-users-navi
+filmarks.com##.p-content-detail-links
 
 myanimelist.net##.mal-tooltip-layer
 myanimelist.net##.mt8.icon-block.js-sns-icon-container
