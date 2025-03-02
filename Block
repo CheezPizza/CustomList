@@ -10,6 +10,7 @@ m.kinolights.com###header.tit_page .header-inner[data-v-8e3f412c]{max-width:1050
 m.kinolights.com##.filter-chips-wrap[data-v-4fd44096]{max-width:1050px !important;}
 www.filmaffinity.com###page-header{margin-bottom:40px !important;}
 www.imdb.com##.ipc-title{margin-bottom:-1.5rem !important;}
+www.imdb.com##.lkFtOq{position:static !important;}
 www.amazon.com##.xrayQuickView
 
 www.startpage.com###adBlock
