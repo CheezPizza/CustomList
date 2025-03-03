@@ -102,6 +102,10 @@ letterboxd.com##a.track-event.micro-button:nth-of-type(2)
 letterboxd.com###userpanel > ul > li:nth-of-type(2)
 letterboxd.com###film-popular-lists
 letterboxd.com##.-clear.related-lists.section
+letterboxd.com###tab-details > div.text-sluglist:nth-of-type(1)
+letterboxd.com###tab-details > h3:nth-of-type(1)
+letterboxd.com###tab-details > h3:last-of-type
+letterboxd.com##.text-indentedlist
 
 movie.douban.com##.gray_ad
 movie.douban.com##.aside > .pl
@@ -263,8 +267,6 @@ wikipedia.org##.va-variant-prompt
 wikipedia.org##.ambox-notice
 wikipedia.org##.ambox-style
 
-flixpatrol.com###netflix-1
-
 hinative.com##.mod_footer
 hinative.com##.mod_banner_bestapp_footer
 hinative.com##div.mod_share_buttons
@@ -278,7 +280,11 @@ hinative.com##.chat_userstatus
 hinative.com##.img_box_question_answer
 ||ogp-v2.hinative.com/ogp/question$image
 
+flixpatrol.com###netflix-1
+
 kitsunekko.net###signin
+
+subsource.net##.css-dpnm7g.MuiBox-root
 
 github.com##.flash.flash-warn.mt-3
 
