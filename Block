@@ -1,13 +1,13 @@
 youtube.com#$##cinematics.ytd-watch-flexy{display:none}
 www.deepl.com##html{filter: invert(90%) hue-rotate(180deg) brightness(100%) contrast(110%) grayscale(100%) !important;}
-m.kinolights.com##.main[data-v-5c6efe4b]{--top: 104px !important;}
+m.kinolights.com##.main{--top: 104px !important;}
 m.kinolights.com###contents{max-width:1050px !important;}
-m.kinolights.com##.filterArea[data-v-5c6efe4b]{max-width:1050px !important;}
-m.kinolights.com##.archive-movie-list-area .movie-list-item-wrap[data-v-5c6efe4b]{grid-template-columns:repeat(6,minmax(0,1fr)) !important;}
-m.kinolights.com##.movie-info-container[data-v-dfd1d592]{max-width:1050px !important;}
-m.kinolights.com##.media-type-btn-wrap[data-v-3281aaff]{max-width:1050px !important;}
-m.kinolights.com###header.tit_page .header-inner[data-v-8e3f412c]{max-width:1050px !important;}
-m.kinolights.com##.filter-chips-wrap[data-v-4fd44096]{max-width:1050px !important;}
+m.kinolights.com##.filterArea{max-width:1050px !important;}
+m.kinolights.com##.archive-movie-list-area .movie-list-item-wrap{grid-template-columns:repeat(6,minmax(0,1fr)) !important;}
+m.kinolights.com##.movie-info-container{max-width:1050px !important;}
+m.kinolights.com##.media-type-btn-wrap{max-width:1050px !important;}
+m.kinolights.com###header.tit_page .header-inner{max-width:1050px !important;}
+m.kinolights.com##.filter-chips-wrap{max-width:1050px !important;}
 www.filmaffinity.com###page-header{margin-bottom:40px !important;}
 www.imdb.com##.lkFtOq{position:static !important;}
 www.imdb.com##.ipc-title--page-title{margin-bottom: -1.5rem !important;}
